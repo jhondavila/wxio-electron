@@ -1,5 +1,5 @@
-import Core from "../../node/core";
-import util from "../../node/util";
+import Core from "../node/core";
+import util from "../node/util";
 
 import eLog from "./log";
 
